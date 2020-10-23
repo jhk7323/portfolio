@@ -2026,9 +2026,11 @@ h3 {
 }
 
 
-/* line 30, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_about.scss */
-  color: #727272;
 
+
+/* line 30, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_about.scss */
+
+.about_me .about_e_details span{font-weight: 600;font-size: 17px;}
 .about_me .about_e_details h4{font-size: 17px; color: #333;margin-bottom: 12px;}
 
 .download_cv{margin-top: 21px;}
