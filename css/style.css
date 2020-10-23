@@ -710,7 +710,7 @@ h3 {
   font-size: 16px;
   color: #727272;
   line-height: 23px;
-  margin-bottom: 100px;
+  margin-bottom: 0px;
   font-weight: 400;
 }
 
@@ -723,7 +723,7 @@ h3 {
 
 /* line 61, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_section_title.scss */
 .section_title.white_text h3 {
-  color: #82837b;
+  color: #74726f;
 }
 
 /* line 64, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_section_title.scss */
@@ -888,13 +888,6 @@ h3 {
   background: transparent;
 }
 
-@media (max-width: 767px) {
-  /* line 16, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_header.scss */
-  .header-area .main-header-area {
-    padding: 10px 0px;
-    background: #2C2C2C;
-  }
-}
 
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 16, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_header.scss */
@@ -2888,12 +2881,12 @@ h3 {
 
 /* line 11, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_discuss.scss */
 .discuss_projects .project_text h3 {
-  color: #a6a6a6;
+  color: #979797;
   font-size: 50px;
   font-weight: 700;
     padding-bottom: 5%;
 }
-.discuss_projects .project_text h3:hover{color: #fda68c;}
+.discuss_projects .project_text h3:hover{color: #f4aa91;}
 .discuss_projects .project_text li{
     display: inline-block;
     width: 25%;
@@ -3121,7 +3114,7 @@ float: left;}
   height: 100%;
   left: 0;
   top: 0;
-  background: #d6d7ca;
+  background: #e7dac9;
   content: '';
 }
 
