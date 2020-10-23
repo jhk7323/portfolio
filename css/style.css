@@ -2022,16 +2022,16 @@ h3 {
   font-weight: 700;
   color: #001D38;
     letter-spacing: -2px;
+    margin-bottom: 18px;
 }
 
+
 /* line 30, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_about.scss */
-.about_me .about_e_details p {
-  font-size: 15px;
-  font-weight: 400;
   color: #727272;
-  margin-top: 20px;
-  margin-bottom: 36px;
-}
+
+.about_me .about_e_details h4{font-size: 17px; color: #333;margin-bottom: 12px;}
+
+.download_cv{margin-top: 21px;}
 /* line 43, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_about.scss */
 .about_me .about_img {
   position: relative;
